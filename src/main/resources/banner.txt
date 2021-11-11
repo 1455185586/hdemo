@@ -1,0 +1,11 @@
+${AnsiColor.BRIGHT_RED}
+
+
+
+lxz
+
+
+${application.version}
+${application.formatted-version}
+${spring-boot.version}
+${spring-boot.formatted-version}
